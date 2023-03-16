@@ -1,0 +1,93 @@
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.exe.config
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.exe
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.pdb
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form1.resources
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Properties.Resources.resources
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.exe
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.pdb
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form2.resources
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form3.resources
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form4.resources
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.CopyComplete
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\EntityFramework.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\GMap.NET.Core.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\EntityFramework.xml
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\PC\OneDrive\Masaüstü\Kodlar\Bm102 Final Ödevi\Bm102 Final Ödevi\bin\Debug\System.Security.Principal.Windows.xml
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.exe.config
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.exe
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.pdb
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\EntityFramework.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\GMap.NET.Core.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Newtonsoft.Json.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SqlClient.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Security.Principal.Windows.dll
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\EntityFramework.xml
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Newtonsoft.Json.xml
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SqlClient.xml
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.xml
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Security.Principal.Windows.xml
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.AssemblyReference.cache
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form1.resources
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form2.resources
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form3.resources
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form4.resources
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Properties.Resources.resources
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.GenerateResource.cache
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.CoreCompileInputs.cache
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.CopyComplete
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.exe
+D:\Ceng\Okul Proje\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.pdb
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.exe.config
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.exe
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Bm102 Final Ödevi.pdb
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\EntityFramework.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\GMap.NET.Core.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\EntityFramework.xml
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Data.SQLite.xml
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.AssemblyReference.cache
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form1.resources
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form2.resources
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form3.resources
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Form4.resources
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102_Final_Ödevi.Properties.Resources.resources
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.GenerateResource.cache
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.csproj.CopyComplete
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.exe
+C:\Users\Papfi\Desktop\BM102 Final Proje Dosyası Umut Demirel 191180034\Bm102 Final Ödevi Kodları\Bm102 Final Ödevi\obj\Debug\Bm102 Final Ödevi.pdb
